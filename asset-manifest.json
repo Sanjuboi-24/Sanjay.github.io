@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sanjay.github.io/static/css/main.47330793.css",
+    "main.js": "/Sanjay.github.io/static/js/main.af3313c8.js",
+    "static/js/453.1407b060.chunk.js": "/Sanjay.github.io/static/js/453.1407b060.chunk.js",
+    "index.html": "/Sanjay.github.io/index.html",
+    "main.47330793.css.map": "/Sanjay.github.io/static/css/main.47330793.css.map",
+    "main.af3313c8.js.map": "/Sanjay.github.io/static/js/main.af3313c8.js.map",
+    "453.1407b060.chunk.js.map": "/Sanjay.github.io/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47330793.css",
+    "static/js/main.af3313c8.js"
+  ]
+}
